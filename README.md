@@ -1,16 +1,16 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amintikk/amintikk/main/puertamagica.gif" width="520" alt="puertamagica gif" />
+</p>
 
-<!--
-**amintikk/amintikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=420&lines=technology+enthusiast;always+exploring" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Technology enthusiast.<br>
+  Curious mind. Builder mindset.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,docker,linux,git" />
+</p>
