@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amintikk/amintikk/main/puertamagica.gif" width="520" alt="puertamagica gif" />
+  <img src="https://raw.githubusercontent.com/amintikk/amintikk/main/gif.gif" width="520" alt="puertamagica gif" />
 </p>
 
 <p align="center">
